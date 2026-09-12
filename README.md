@@ -1,168 +1,125 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Lammouri%20Mohamed%20Ziad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=30" />
+</div>
 
-<!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=180&section=header&text=Lammouri%20Mohamed%20Ziad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32" />
-
-<!-- Typing animation -->
-<a href="https://github.com/ziadlammouri545-dev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Automation+with+n8n+%E2%9A%99%EF%B8%8F;+CS+Student+%E2%80%94+Year+2+%F0%9F%8E%93;Let%27s+build+something+great+%F0%9F%9A%80" />
-</a>
-
-<!-- Badges -->
-<p>
-  <a href="https://github.com/ziadlammouri545-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/ziadlammouri545-dev?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" />
-  </a>
-  <img src="https://img.shields.io/github/stars/ziadlammouri545-dev?style=for-the-badge&logo=github&label=Stars&color=fbbf24" />
-  <img src="https://komarev.com/ghpvc/?username=ziadlammouri545-dev&style=for-the-badge&color=0ea5e9&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Building_%F0%9F%9A%80-22c55e?style=for-the-badge" />
+<p align="center">
+  <strong>🚀 Full-Stack Developer &nbsp;·&nbsp; ⚡ AI Automation with n8n &nbsp;·&nbsp; 🎓 CS Student — Year 2</strong>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Always_Learning-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Algeria-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speaks-Arabic_%2B_English-fbbf24?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ziadlammouri545-dev?tab=followers">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fziadlammouri545-dev&query=%24.followers&label=Followers&color=0ea5e9&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fziadlammouri545-dev&query=%24.following&label=Following&style=for-the-badge&color=fbbf24" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fziadlammouri545-dev&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=22c55e" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👤 About Me
 
-```yaml
-name: Lammouri Mohamed Ziad
-location: Algeria 🇩🇿
-education: BSc Computer Science — U. Alger 1 (Year 2 / LMD)
-roles:
-  - Full-Stack Developer
-  - AI Automation Builder (n8n)
-languages_spoken: Arabic + English
-currently_learning:
-  - "Advanced React & Next.js"
-  - "C & Python fundamentals"
-goal: "Ship well-tested products that make life easier"
-```
+Hi! I'm **Ziad** — a 2nd-year Computer Science student at **Université d'Alger 1** who loves building things that work. I write clean web apps with JavaScript/React and automate repetitive tasks with n8n workflows.
+
+- 🧠 Always learning: **React**, **Node.js**, **C**, and growing my **Python**
+- 🔧 Builder at heart — I love turning ideas into working, tested products
+- 🤖 n8n enthusiast — I design hands-free automations for real problems
+- 🌍 Algerian, speaking **Arabic** and **English**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python (beginner)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Python+(beginner))
+### Web & Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python&labelColor=3776AB&color=3776AB)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### AI & Automations
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6600?style=for-the-badge&logo=githubactions&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-EC1C24?style=for-the-badge&logo=webpack&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Automation & Tools
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-009688?style=flat-square&logo=swagger&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ziadlammouri545-dev/taskly">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=taskly&theme=tokyonight&hide_border=true" />
-      </a><br/>
-      ⚡ CLI task manager — fast, tested, persists locally
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ziadlammouri545-dev/github-explorer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=github-explorer&theme=tokyonight&hide_border=true" />
-      </a><br/>
-      🚀 Search & explore any GitHub profile in React
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ziadlammouri545-dev/snipurl">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=snipurl&theme=tokyonight&hide_border=true" />
-      </a><br/>
-      ✦ Self-hosted URL shortener — Express + SQLite
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ziadlammouri545-dev/zizou-store">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=zizou-store&theme=tokyonight&hide_border=true" />
-      </a><br/>
-      🛒 Storefront web app
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ziadlammouri545-dev/taskly">
+    <img width="440" src="https://img.shields.io/badge/taskly-⚡CLI_task_manager_·_7_/_7_tests-0ea5e9?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="taskly" />
+  </a>
+  <a href="https://github.com/ziadlammouri545-dev/github-explorer">
+    <img width="440" src="https://img.shields.io/badge/github_explorer-🚀React_profile_search_app-8b5cf6?style=for-the-badge&logo=react&logoColor=white" alt="github-explorer" />
+  </a>
+  <br />
+  <a href="https://github.com/ziadlammouri545-dev/snipurl">
+    <img width="440" src="https://img.shields.io/badge/snipurl-✦Self_hosted_URL_shortener-22c55e?style=for-the-badge&logo=express&logoColor=white" alt="snipurl" />
+  </a>
+  <a href="https://github.com/ziadlammouri545-dev/n8n-automations">
+    <img width="440" src="https://img.shields.io/badge/n8n_automations-🤖Ready_made_workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n-automations" />
+  </a>
+</p>
+
+| Project | What it is | Stack |
+|:--------|:-----------|:------|
+| ⚡ [taskly](https://github.com/ziadlammouri545-dev/taskly) | CLI task manager kept in a local JSON file, 7/7 tests passing | Node.js, Commander |
+| 🚀 [github-explorer](https://github.com/ziadlammouri545-dev/github-explorer) | React app that searches & explores any GitHub profile | React, Vite |
+| ✦ [snipurl](https://github.com/ziadlammouri545-dev/snipurl) | Self-hosted URL shortener with SQLite storage, tested API | Express, SQLite, EJS |
+| 🤖 [n8n-automations](https://github.com/ziadlammouri545-dev/n8n-automations) | Reusable n8n workflows — news digests & GitHub reports | n8n |
+
+---
+
+## ❤️ What I'm Into
+
+- **Building web apps** with React and Node.js
+- **Automating the boring stuff** with n8n, webhooks, and cron schedules
+- **Learning CS fundamentals** — algorithms, data structures, C
+- **Open-source** — always open to collaboration!
+
+---
+
+## 🎯 Random Dev Quote
 
 <p align="center">
-  <a href="https://github.com/ziadlammouri545-dev/n8n-automations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=n8n-automations&theme=tokyonight&hide_border=true" />
-  </a><br/>
-  ⚡ Reusable n8n workflow automations (news digest, GitHub reports)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Let's Connect
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ziadlammouri545-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadlammouri545-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadlammouri545-dev&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadlammouri545-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziadlammouri545-dev&theme=onedark&no-bg=true&no-frame=true&column=6" />
-</div>
-
----
-
-## 🐱 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/ziadlammouri545-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:ziadlammouri545@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ziadlammouri545-dev">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer" />
-
 <div align="center">
-  <i>♾️ From Algeria with code — open to collaborations on automation & full-stack projects 🚀</i>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer" />
+  <br />
+  <i>From Algeria with code 🇩🇿 — always building 🚀</i>
 </div>
