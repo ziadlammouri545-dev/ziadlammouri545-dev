@@ -1,6 +1,12 @@
 <div align="center">
   <div style="max-width: 620px;">
 
+<p align="center">
+  <a href="https://ziadlammouri545-dev.github.io/portfolio-website/">
+    <img src="https://raw.githubusercontent.com/ziadlammouri545-dev/ziadlammouri545-dev/main/banner.svg" width="680" alt="Open my portfolio" />
+  </a>
+</p>
+
 <br/>
 
 ### Hi, I'm Ziad <span style="font-size:22px">👋</span>

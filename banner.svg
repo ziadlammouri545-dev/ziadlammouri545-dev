@@ -1,0 +1,37 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.2" cy="1.2" r="1.2" fill="#24262e"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.9" cy="0.1" r="0.8">
+      <stop offset="0" stop-color="#0f9d8f" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0f9d8f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="380" rx="30" fill="#17181c"/>
+  <rect width="1200" height="380" fill="url(#dots)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <rect x="0" y="54" width="1200" height="1" fill="#24262e"/>
+  <rect x="0" y="326" width="1200" height="1" fill="#24262e"/>
+
+  <text x="64" y="150" font-family="'Segoe UI', system-ui, sans-serif" font-size="66" font-weight="700" fill="#f4f4f0">Ziad Lammourri</text>
+  <text x="64" y="198" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" fill="#9ba1ae">Software engineering student <tspan fill="#0f9d8f">·</tspan> maker <tspan fill="#0f9d8f">·</tspan> Algiers, Algeria</text>
+
+  <circle cx="906" cy="140" r="8" fill="#0f9d8f"/>
+  <text x="930" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" fill="#d7dbe2">Open my portfolio</text>
+
+  <rect x="906" y="178" width="230" height="52" rx="26" fill="#0f9d8f"/>
+  <text x="1021" y="211" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="600" fill="#ffffff">portfolio ↗</text>
+
+  <text x="64" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">React</text>
+  <text x="200" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">· Vite</text>
+  <text x="326" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">· Node</text>
+  <text x="466" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">· n8n</text>
+  <text x="596" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">· C</text>
+  <text x="694" y="290" font-family="'Courier New', monospace" font-size="20" fill="#5b5e68">· Python</text>
+
+  <text x="64" y="340" font-family="'Courier New', monospace" font-size="18" fill="#3a3d46">github.com/ziadlammouri545-dev</text>
+  <text x="1040" y="340" font-family="'Courier New', monospace" font-size="18" fill="#3a3d46" text-anchor="end">est. 2026</text>
+</svg>
