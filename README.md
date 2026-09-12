@@ -13,8 +13,8 @@
 <span style="display:inline-block; font-size:16px; font-weight:500; color:#9ba1ae; margin-top:2px;">Software engineering student &amp; maker</span><br/>
 
 <span style="display:block; font-size:14px; color:#8b8f98; margin-top:12px; line-height:1.55;">
-I build small web apps, CLI tools and automations,
-and I push it all here. Learning C and Python on the side.
+2nd year CS at Université d'Alger 1. I build small web apps,
+CLI tools and automations, and I push it all to GitHub.
 </span>
 
 <a href="https://ziadlammouri545-dev.github.io/portfolio-website/" style="display:inline-block; background:#0f9d8f; color:#fff; padding:9px 16px; border-radius:999px; font-size:13px; font-weight:600; text-decoration:none; margin-top:18px;">Live site</a>&nbsp;
@@ -32,11 +32,11 @@ and I push it all here. Learning C and Python on the side.
 </tr>
 <tr>
 
-<!-- OPEN TILE -->
-<td style="background:#0f9d8f; border-radius:18px; padding:18px 20px; height:120px; color:#fff; vertical-align:top; line-height:1.4;">
-<span style="font-size:10.5px; font-weight:600; letter-spacing:0.16em; text-transform:uppercase; opacity:0.85;">Status</span><br/>
-<span style="font-size:18px; font-weight:700; margin-top:4px;">Open to<br/>internships</span><br/>
-<span style="font-size:13px; opacity:0.75;">Available now · respond within a day</span>
+<!-- CURRENTLY TILE -->
+<td style="background:#17181c; border-radius:18px; padding:18px 20px; height:120px; color:#fff; vertical-align:top; line-height:1.4;">
+<span style="font-size:10.5px; font-weight:600; letter-spacing:0.16em; text-transform:uppercase; color:#0f9d8f;">Currently</span><br/>
+<span style="font-size:18px; font-weight:700; margin-top:4px;">Learning C<br/>&amp; Python</span><br/>
+<span style="font-size:13px; color:#9ba1ae;">Algorithms · Systems · Software Eng</span>
 </td>
 
 </tr>
@@ -57,7 +57,7 @@ and I push it all here. Learning C and Python on the side.
 <!-- CONTACT TILE -->
 <td style="background:#17181c; border-radius:18px; padding:20px; color:#fff; vertical-align:top; line-height:1.4;">
 <span style="font-size:22px; font-weight:700; letter-spacing:-0.02em;">Let's make<br/>something</span><br/>
-<span style="font-size:13.5px; color:#9ba1ae; margin-top:8px;">Open for small projects and freelance.</span><br/>
+<span style="font-size:13.5px; color:#9ba1ae; margin-top:8px;">Open for internships and small projects.</span><br/>
 <a href="mailto:ziadlammouri545@gmail.com" style="display:inline-block; background:#0f9d8f; color:#fff; padding:10px 20px; border-radius:999px; font-size:14px; font-weight:600; text-decoration:none; margin-top:14px;">Say hello</a><br/>
 <span style="font-size:12px; color:#5b5e68; margin-top:12px;">React · Node · Express · SQLite · n8n · C · Python</span>
 </td>
