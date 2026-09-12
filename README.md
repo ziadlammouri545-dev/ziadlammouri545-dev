@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/ziadlammouri545-dev">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Automation+Enthusiast+%E2%9B%99%EF%B8%8F;CS+Student+at+U.+Alger+1+%F0%9F%8E%93;Let%27s+build+something+great+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&color=0EA5E9&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+Automation+with+n8n+%E2%9A%99%EF%B8%8F;+CS+Student+%E2%80%94+Year+2+%F0%9F%8E%93;Let%27s+build+something+great+%F0%9F%9A%80" />
 </a>
 
 <!-- Badges -->
@@ -27,13 +27,14 @@
 ```yaml
 name: Lammouri Mohamed Ziad
 location: Algeria 🇩🇿
-education: BSc Computer Science — U. Alger 1 (LMD 2)
+education: BSc Computer Science — U. Alger 1 (Year 2 / LMD)
 roles:
   - Full-Stack Developer
-  - AI Automation Builder
+  - AI Automation Builder (n8n)
+languages_spoken: Arabic + English
 currently_learning:
   - "Advanced React & Next.js"
-  - "Python Automation & AI"
+  - "C & Python fundamentals"
 goal: "Ship well-tested products that make life easier"
 ```
 
@@ -43,9 +44,10 @@ goal: "Ship well-tested products that make life easier"
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python (beginner)](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&label=Python+(beginner))
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -57,6 +59,11 @@ goal: "Ship well-tested products that make life easier"
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
+
+### AI & Automations
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6600?style=for-the-badge&logo=githubactions&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-EC1C24?style=for-the-badge&logo=webpack&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
