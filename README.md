@@ -107,6 +107,13 @@ goal: "Ship well-tested products that make life easier"
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/ziadlammouri545-dev/n8n-automations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadlammouri545-dev&repo=n8n-automations&theme=tokyonight&hide_border=true" />
+  </a><br/>
+  ⚡ Reusable n8n workflow automations (news digest, GitHub reports)
+</p>
+
 ---
 
 ## 📊 GitHub Stats
